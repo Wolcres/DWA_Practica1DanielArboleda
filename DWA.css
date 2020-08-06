@@ -1,0 +1,13 @@
+header ul li{
+    display: inline;
+    }
+
+    ul{
+        list-style-type: none;
+    }
+
+    .header_background{
+        position: absolute;
+        z-index: -1;
+        width: 100%;
+    }
