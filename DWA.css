@@ -90,7 +90,7 @@ header ul{
     justify-content: space-evenly;
     
 }
-.header_menu_boton button{
+.header_menu_button button{
     color: white;
     padding: 5px 50px;
     border-radius: 20px;
@@ -101,6 +101,7 @@ header ul{
     width: 20%;
     display: flex;
     flex-wrap: wrap;
+    
 }
 .header_item2_content{
     align-self: center;
