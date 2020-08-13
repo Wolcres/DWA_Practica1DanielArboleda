@@ -21,6 +21,7 @@ header ul li{
 
 body{
     background-color: whitesmoke;
+    overflow-x: hidden;
 }
 
 header{
